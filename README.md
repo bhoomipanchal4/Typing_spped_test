@@ -76,6 +76,7 @@ Add screenshots of the application interface and a completed typing session belo
 
 ![Typing Speed Test Results](screenshots/typing_area.png)
 
+### Showing Word Per Minute Result
 
 ![Typing Speed Test Results](screenshots/final_result.png)
 
